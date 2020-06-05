@@ -10,3 +10,6 @@ green
 white
 cyan
 orange
+yellow
+fushia
+
