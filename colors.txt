@@ -7,3 +7,4 @@ black
 metal
 brown
 green
+white
