@@ -10,6 +10,8 @@ green
 white
 cyan
 orange
+blue navy
+purple
 yellow
 fushia
 
